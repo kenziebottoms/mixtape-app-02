@@ -1,19 +1,26 @@
-# Using this repo
+Experimentation with the Spotify, TMDb, and Goodreads APIs.
 
-### Initialize an `npm` project for use with Grunt
+---
 
-In the root:
+## Resources
 
-```shell
-> npm init -y
-```
+### Spotify
 
-`-y` say yes to every question `npm init` would otherwise ask you.
+#### [API docs](https://developer.spotify.com/web-api/)
 
-### Install necessary `npm` modules
+- [Endpoint reference](https://developer.spotify.com/web-api/endpoint-reference/)
+- [Spotify for Developers](https://beta.developer.spotify.com/dashboard/applications)
+- [Interactive API console](https://developer.spotify.com/web-api/console/)
 
-These are listed as dependencies in `package.json` already.
+### The Movie Db
 
-```shell
-> npm install
-```
+#### [API docs](https://www.themoviedb.org/documentation/apihttps://developers.themoviedb.org/3/getting-started/introduction)
+
+- [Movie endpoints](https://developers.themoviedb.org/3/movies/get-movie-details)
+- [TV show endpoints](https://developers.themoviedb.org/3/tv/get-tv-details)
+
+### Goodreads
+
+#### [API docs](https://www.goodreads.com/api)
+
+- [Search books](https://www.goodreads.com/api/index#search.books)
